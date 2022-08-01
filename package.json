@@ -1,0 +1,22 @@
+{
+  "name": "lkmoody-template-generator",
+  "version": "1.0.0",
+  "description": "My template generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkmoody/template-generator.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Larry Moody",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lkmoody/template-generator/issues"
+  },
+  "homepage": "https://github.com/lkmoody/template-generator#readme"
+}
